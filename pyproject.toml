@@ -37,6 +37,14 @@ dependencies = [
   "tqdm",
 ]
 
+[project.optional-dependencies]
+docs = [
+  "sphinx>=7.0",
+  "pydata-sphinx-theme",
+  "numpydoc",
+  "myst-parser",
+]
+
 [project.urls]
 Homepage = "https://github.com/LMJL-Alea/kAOV"
 Documentation = "https://tuxette.github.io/kAOV/"
