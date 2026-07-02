@@ -7,4 +7,4 @@ From PyPI::
 
 From GitHub::
 
-    pip install kaov@git+https://github.com/tuxette/kAOV@ready_to_publish
+    pip install kaov@git+https://github.com/tuxette/kAOV@main
