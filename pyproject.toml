@@ -39,6 +39,7 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://github.com/LMJL-Alea/kAOV"
+Documentation = "https://tuxette.github.io/kAOV/"
 Repository = "https://github.com/LMJL-Alea/kAOV"
 
 [tool.uv.sources]
