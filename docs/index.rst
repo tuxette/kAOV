@@ -10,6 +10,12 @@ A Python library for general kernel hypothesis testing.
    installation
    api
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Examples:
+
+   examples/index
+
 Indices and tables
 ===================
 
