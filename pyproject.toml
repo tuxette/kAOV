@@ -43,6 +43,7 @@ docs = [
   "pydata-sphinx-theme",
   "numpydoc",
   "myst-parser",
+  "nbsphinx",
 ]
 
 [project.urls]
