@@ -25,7 +25,10 @@ extensions = [
     "sphinx.ext.intersphinx",
     "numpydoc",
     "myst_parser",
+    "nbsphinx",
 ]
+
+nbsphinx_execute = "never"  # les notebooks ne sont pas ré-exécutés au build (juste rendus tels quels)
 
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
